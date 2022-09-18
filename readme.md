@@ -1,4 +1,4 @@
-NAme: Wong Chak Hang
+Name: Wong Chak Hang
 
 ID: 20791344
 
